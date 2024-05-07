@@ -59,5 +59,12 @@ int main()
 ![image](https://github.com/veerargavanv27/Linux-IPC-Shared-memory/assets/138955645/ede38de8-fd32-47ce-b0e4-47b30f86efd9)
 
 
+
+
+
+
+
 # RESULT:
 The program is executed successfully.
+
+
